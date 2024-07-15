@@ -1,5 +1,5 @@
 import React from 'react'
-import banner  from "../../public/Banner.jpg.png"
+import banner  from "/Banner3.jpg.png"
 function Banner() {
   return <>
   <div className="max-w-screen-2xl container mx-auto md:px-20 px-4 flex flex-col md:flex-row ">
@@ -24,7 +24,7 @@ function Banner() {
   <input type="text" className="grow" placeholder="Email" />
   </label>
     </div>
-    <button className="btn mt-9 btn-active btn-accent">Accent</button>
+    <button className="btn mt-9 btn-active btn-accent">Get Started</button>
 
 </div>
     <div className=" order-1 w-full md:w-1/2"> <img src={banner} className="w-90 h-55 py-20 px-10"alt="" /></div>

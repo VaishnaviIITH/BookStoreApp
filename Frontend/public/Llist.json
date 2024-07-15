@@ -2,94 +2,77 @@
 [
     {
         "id":1,
-        "name":"Story book",
-        "title": "gjhjhjkkjhhjkjggfghghdfdfshjkjl fgklklhu guhggddrtr",
+        "name":"Forty rules",
+        "title": "Blends historical fiction with contemporary themes, exploring love, spirituality, and Rumi's teachings.",
         "price":0,
-        "category":"Free",
-        "image":"https://images.pexels.com/photos/22686999/pexels-photo-22686999/free-photo-of-analog-camera-and-filmstrips-by-book.jpeg?auto=compress&cs=tinysrgb&w=600"
+        "category":"Story book",
+        "image":"https://m.media-amazon.com/images/I/914DQ26V6RL._AC_UY327_FMwebp_QL65_.jpg"
 
     },
     {
         "id":2,
-        "name":"Comedy book",
-        "title": "gjhjhjkkjhhjkjggfghghdfdfshjkjl fgklklhu guhggddrtr",
+        "name":"Roomie",
+        "title": "A heartwarming contemporary romance about two unlikely roommates who find unexpected love amidst their temporary living arrangement.",
         "price":20,
-        "category":"Free",
-        "image":"https://images.pexels.com/photos/22686999/pexels-photo-22686999/free-photo-of-analog-camera-and-filmstrips-by-book.jpeg?auto=compress&cs=tinysrgb&w=600"
+        "category":"Romance",
+        "image":"https://m.media-amazon.com/images/I/71baLm1F++L._AC_UY327_FMwebp_QL65_.jpg"
 
     },
     {
         "id":3,
-        "name":"Sports book",
-        "title": "gjhjhjkkjhhjkjggfghghdfdfshjkjl fgklklhu guhggddrtr",
+        "name":"Sports Stars",
+        "title": "Celebrates the achievements and legacies of legendary athletes across various sports.",
         "price":50,
-        "category":"Free",
-        "image":"https://images.pexels.com/photos/22686999/pexels-photo-22686999/free-photo-of-analog-camera-and-filmstrips-by-book.jpeg?auto=compress&cs=tinysrgb&w=600"
+        "category":"Sports book",
+        "image":"https://m.media-amazon.com/images/I/61ipGPkxPvL._AC_UY327_FMwebp_QL65_.jpg"
 
     },
    
     {
         "id":4,
-        "name":"Music book",
-        "title": "gjhjhjkkjhhjkjggfghghdfdfshjkjl fgklklhu guhggddrtr",
+        "name":"Curfew",
+        "title": "A coming-of-age story set against the backdrop of a city under curfew, exploring themes of rebellion, friendship, and self-discovery.",
         "price":100,
-        "category":"Music",
-        "image":"https://images.pexels.com/photos/22686999/pexels-photo-22686999/free-photo-of-analog-camera-and-filmstrips-by-book.jpeg?auto=compress&cs=tinysrgb&w=600"
+        "category":"Friction",
+        "image":"https://m.media-amazon.com/images/I/81cMtJ4rX5L._AC_UY327_FMwebp_QL65_.jpg"
 
     },
     {
         "id":5,
-        "name":"Food book",
-        "title": "gjhjhjkkjhhjkjggfghghdfdfshjkjl fgklklhu guhggddrtr",
+        "name":"Food Detectives",
+        "title": "Follows a group of young detectives solving culinary mysteries in Kamogawa, blending food and intrigue.",
         "price":200,
-        "category":"Sports",
-        "image":"https://images.pexels.com/photos/22686999/pexels-photo-22686999/free-photo-of-analog-camera-and-filmstrips-by-book.jpeg?auto=compress&cs=tinysrgb&w=600"
+        "category":"Food Book",
+        "image":"https://m.media-amazon.com/images/I/413jvw3F1qL._SY445_SX342_.jpg"
 
     },
     {
         "id":6,
-        "name":"Travel book",
-        "title": "gjhjhjkkjhhjkjggfghghdfdfshjkjl fgklklhu guhggddrtr",
+        "name":"The Himalayas",
+        "title": "Chronicles an adventurous journey deep into the breathtaking landscapes and cultures of the Himalayas.",
         "price":600,
-        "category":"Free",
-        "image":"https://images.pexels.com/photos/22686999/pexels-photo-22686999/free-photo-of-analog-camera-and-filmstrips-by-book.jpeg?auto=compress&cs=tinysrgb&w=600"
+        "category":"Travel Book",
+        "image":"https://m.media-amazon.com/images/I/51LLa0xunqL._SY445_SX342_.jpg"
 
     },
     {
         "id":7,
-        "name":"Music book",
-        "title": "gjhjhjkkjhhjkjggfghghdfdfshjkjl fgklklhu guhggddrtr",
+        "name":"The Enemy",
+        "title": "A gripping thriller that explores espionage, deception, and the hunt for a dangerous adversary.",
         "price":100,
-        "category":"Free",
-        "image":"https://images.pexels.com/photos/22686999/pexels-photo-22686999/free-photo-of-analog-camera-and-filmstrips-by-book.jpeg?auto=compress&cs=tinysrgb&w=600"
+        "category":"Romance",
+        "image":"https://m.media-amazon.com/images/I/41pIQWBL6BL._SY445_SX342_.jpg"
 
     },
     {
         "id":8,
-        "name":"Music book",
-        "title": "gjhjhjkkjhhjkjggfghghdfdfshjkjl fgklklhu guhggddrtr",
-        "price":100,
-        "category":"Song",
-        "image":"https://images.pexels.com/photos/22686999/pexels-photo-22686999/free-photo-of-analog-camera-and-filmstrips-by-book.jpeg?auto=compress&cs=tinysrgb&w=600"
-
-    },
-    {
-        "id":9,
-        "name":"Music book",
-        "title": "gjhjhjkkjhhjkjggfghghdfdfshjkjl fgklklhu guhggddrtr",
-        "price":100,
-        "category":"Song",
-        "image":"https://images.pexels.com/photos/22686999/pexels-photo-22686999/free-photo-of-analog-camera-and-filmstrips-by-book.jpeg?auto=compress&cs=tinysrgb&w=600"
-
-    },
-    {
-        "id":10,
-        "name":"Music book",
-        "title": "gjhjhjkkjhhjkjggfghghdfdfshjkjl fgklklhu guhggddrtr",
-        "price":100,
-        "category":"Song",
-        "image":"https://images.pexels.com/photos/22686999/pexels-photo-22686999/free-photo-of-analog-camera-and-filmstrips-by-book.jpeg?auto=compress&cs=tinysrgb&w=600"
+        "name":"The Match",
+        "title": "An intense sports drama that follows the thrilling journey of a pivotal match, filled with suspense and passion.",
+        "price":200,
+        "category":"Romance",
+        "image":"https://m.media-amazon.com/images/I/715-Ng237yL._SY522_.jpg"
+      
 
     }
-
 ]
+   

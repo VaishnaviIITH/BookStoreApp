@@ -1,94 +1,68 @@
 [
     {
         "id":1,
-        "name":"Story book",
-        "title": "gjhjhjkkjhhjkjggfghghdfdfshjkjl fgklklhu guhggddrtr",
+        "name":"Friction",
+                "title": "Nora Seed explores alternate lives in a mystical library, discovering the impact of her choices.",
         "price":0,
         "category":"Free",
-        "image":"https://www.oliversacks.com/wp-content/uploads/2022/03/Musicophilia-600px-1.png"
+        "image":"https://m.media-amazon.com/images/I/419X9dVWmJL._SY445_SX342_.jpg"
+
 
     },
     {
         "id":2,
-        "name":"Comedy book",
-        "title": "gjhjhjkkjhhjkjggfghghdfdfshjkjl fgklklhu guhggddrtr",
+        "name":"Personal Finance",
+        "title": "Explores how emotions and behavior influence financial decisions and wealth-building.",
         "price":20,
         "category":"Free",
-        "image":"https://www.oliversacks.com/wp-content/uploads/2022/03/Musicophilia-600px-1.png"
+        "image":"https://m.media-amazon.com/images/I/41mxvU9Tu6L._SY445_SX342_.jpg"
 
     },
     {
         "id":3,
-        "name":"Sports book",
-        "title": "gjhjhjkkjhhjkjggfghghdfdfshjkjl fgklklhu guhggddrtr",
+        "name":"Children book",
+        "title": "Harry Potter discovers his magical heritage and battles dark forces in a quest to defeat Voldemort",
         "price":50,
         "category":"Free",
-        "image":"https://www.oliversacks.com/wp-content/uploads/2022/03/Musicophilia-600px-1.png"
+        "image":"https://m.media-amazon.com/images/I/91eopoUCjLL._AC._SR360,460.jpg"
 
     },
    
     {
         "id":4,
-        "name":"Music book",
-        "title": "gjhjhjkkjhhjkjggfghghdfdfshjkjl fgklklhu guhggddrtr",
+        "name":"Music Book",
+        "title": "Showcases iconic album covers from the 1960s to the 1990s, celebrating music and design.",
         "price":100,
-        "category":"Music",
-        "image":"https://www.oliversacks.com/wp-content/uploads/2022/03/Musicophilia-600px-1.png"
+        "category":"Free",
+        "image":"https://m.media-amazon.com/images/I/91-aLFaVEGL._AC_UL480_FMwebp_QL65_.jpg"
 
     },
     {
         "id":5,
-        "name":"Food book",
-        "title": "gjhjhjkkjhhjkjggfghghdfdfshjkjl fgklklhu guhggddrtr",
+        "name":"Health book",
+        "title": "Explores how various foods can improve health and prevent diseases.",
         "price":200,
-        "category":"Sports",
-        "image":"https://www.oliversacks.com/wp-content/uploads/2022/03/Musicophilia-600px-1.png"
+        "category":"Free",
+        "image":"https://m.media-amazon.com/images/I/51ySe54p2+L._SY445_SX342_.jpg"
 
     },
     {
         "id":6,
         "name":"Travel book",
-        "title": "gjhjhjkkjhhjkjggfghghdfdfshjkjl fgklklhu guhggddrtr",
+        "title": "A visual journey through every country in the world, showcasing diverse cultures and landscapes",
         "price":600,
         "category":"Free",
-        "image":"https://www.oliversacks.com/wp-content/uploads/2022/03/Musicophilia-600px-1.png"
+        "image":"https://m.media-amazon.com/images/I/81Hpea62EnL._AC_UL480_FMwebp_QL65_.jpg"
 
     },
     {
         "id":7,
         "name":"Music book",
-        "title": "gjhjhjkkjhhjkjggfghghdfdfshjkjl fgklklhu guhggddrtr",
+        "title": "Explores the profound effects of music on the human brain and emotions.",
         "price":100,
         "category":"Free",
         "image":"https://www.oliversacks.com/wp-content/uploads/2022/03/Musicophilia-600px-1.png"
 
-    },
-    {
-        "id":8,
-        "name":"Music book",
-        "title": "gjhjhjkkjhhjkjggfghghdfdfshjkjl fgklklhu guhggddrtr",
-        "price":100,
-        "category":"Song",
-        "image":"https://www.oliversacks.com/wp-content/uploads/2022/03/Musicophilia-600px-1.png"
-
-    },
-    {
-        "id":9,
-        "name":"Music book",
-        "title": "gjhjhjkkjhhjkjggfghghdfdfshjkjl fgklklhu guhggddrtr",
-        "price":100,
-        "category":"Song",
-        "image":"https://www.oliversacks.com/wp-content/uploads/2022/03/Musicophilia-600px-1.png"
-
-    },
-    {
-        "id":10,
-        "name":"Music book",
-        "title": "gjhjhjkkjhhjkjggfghghdfdfshjkjl fgklklhu guhggddrtr",
-        "price":100,
-        "category":"Song",
-        "image":"https://www.oliversacks.com/wp-content/uploads/2022/03/Musicophilia-600px-1.png"
-
     }
-
 ]
+   
