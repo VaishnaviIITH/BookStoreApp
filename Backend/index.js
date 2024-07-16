@@ -23,9 +23,7 @@ try {
 }
 
 // Define routes
-app.use("/",(req,res)=>{
-  res.send("Hello from the server!")  // testing purpose
-})
+
 app.use("/book", bookRoute);
 app.use("/user", userRoute);
 
