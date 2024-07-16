@@ -12,12 +12,11 @@ app.use(cors());
 app.use(express.json());
 dotenv.config();
 
-const PORT = process.env.PORT || 4002; // Changed port number
-const URI = process.env.MongoDBURI;
+
 
 // Connect to MongoDB
 try {
-  mongoose.connect(URI);
+  mongoose.connect("mongodb+srv://ce22btech11051:1234@cluster0.bzokniw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0");
   console.log("Connected to mongoDB");
 } catch (error) {
   console.log("Error:", error);
