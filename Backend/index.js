@@ -8,11 +8,18 @@ import bookRoute from "./route/book.route.js";
 import userRoute from "./route/user.route.js";
 
 const app = express();
-app.use(cors());
+// app.use(cors());
+// app.use(express.json());
+// dotenv.config();
+
+const corsOptions = {
+  origin: 'https://book-store-app-frontend-iota.vercel.app/', // Update with your frontend URL
+  optionsSuccessStatus: 200,
+};
+
+app.use(cors(corsOptions));
+
 app.use(express.json());
-dotenv.config();
-
-
 
 // Connect to MongoDB
 try {

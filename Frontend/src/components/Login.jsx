@@ -18,7 +18,7 @@ function Login() {
     };
 
     try {
-      const res = await axios.post("http://localhost:4001/user/login", userInfo);
+      const res = await axios.post("https://book-store-app-api-zeta.vercel.app/user/login", userInfo);
       if (res.data) {
         toast.success('Login successful');
         setTimeout(() => {
