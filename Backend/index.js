@@ -26,14 +26,14 @@ try {
 app.use("/book", bookRoute);
 app.use("/user", userRoute);
 //deployment
-if(process.env.NODE.ENV==='production'){
+
 const dirPath=path.resolve();
 app.use(express.static("Frontend/dist"))
 
 app.get("*",(req,res)=>{
 res.sendFile(path.resolve(dirPath,'Frontend','dist','index.html'))
 })
-}
+
 
 app.listen(80, () => {
   console.log(`Server is listening on port ${80}`);
