@@ -11,7 +11,11 @@
         "src": "/(.*)",
         "dest": "index.js"
       }
-    ]
-   
+    ],
+    "env": {
+        "PORT":4001,
+      "MongoDBURI": "mongodb+srv://ce22btech11051:1234@cluster0.bzokniw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+      "NODE_ENV": "production"
+    }
   }
   
