@@ -12,12 +12,8 @@ const app = express();
 // app.use(express.json());
 // dotenv.config();
 
-const corsOptions = {
-  origin: 'https://book-store-app-frontend-iota.vercel.app/', // Update with your frontend URL
-  optionsSuccessStatus: 200,
-};
 
-app.use(cors(corsOptions));
+app.use(cors());
 
 app.use(express.json());
 
