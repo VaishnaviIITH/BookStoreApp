@@ -47,3 +47,4 @@ res.sendFile(path.resolve(dirPath,'Frontend','dist','index.html'))
 app.listen(80, () => {
   console.log(`Server is listening on port ${80}`);
 });
+
