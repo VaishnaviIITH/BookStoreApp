@@ -21,11 +21,11 @@ function App() {
  {/* <Home/>
  <Course/> */}
  <Routes>
-  <Route path="/"element={<Home/>}/>
-  <Route path="/course"element={authUser?<Couses/>:<Navigate to ="/signup"/>}/>
-  <Route path="/signup"element={<Signup/>}/>
-  <Route path="/contact"element={<Contact/>}/>
-  <Route path="/about"element={<About/>}/>
+  <Route exact path="/"element={<Home/>}/>
+  <Route exact path="/course"element={authUser?<Couses/>:<Navigate to ="/signup"/>}/>
+  <Route exact path="/signup"element={<Signup/>}/>
+  <Route exact path="/contact"element={<Contact/>}/>
+  <Route exact path="/about"element={<About/>}/>
 
  </Routes>
  <Toaster/>
